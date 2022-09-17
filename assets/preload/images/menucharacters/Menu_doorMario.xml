@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_doorMario.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menudoormario_confirm0000" x="0" y="0" width="416" height="380"/>
+	<SubTexture name="menudoormario_confirm0001" x="0" y="0" width="416" height="380"/>
+	<SubTexture name="menudoormario_confirm0002" x="416" y="0" width="408" height="377" frameX="-4" frameY="-3" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_confirm0003" x="416" y="0" width="408" height="377" frameX="-4" frameY="-3" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_confirm0004" x="824" y="0" width="408" height="380" frameX="-4" frameY="0" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_confirm0005" x="824" y="0" width="408" height="380" frameX="-4" frameY="0" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_confirm0006" x="824" y="0" width="408" height="380" frameX="-4" frameY="0" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_confirm0007" x="824" y="0" width="408" height="380" frameX="-4" frameY="0" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_confirm0008" x="824" y="0" width="408" height="380" frameX="-4" frameY="0" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_confirm0009" x="824" y="0" width="408" height="380" frameX="-4" frameY="0" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_confirm0010" x="824" y="0" width="408" height="380" frameX="-4" frameY="0" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_confirm0011" x="824" y="0" width="408" height="380" frameX="-4" frameY="0" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_confirm0012" x="824" y="0" width="408" height="380" frameX="-4" frameY="0" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_confirm0013" x="824" y="0" width="408" height="380" frameX="-4" frameY="0" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_confirm0014" x="824" y="0" width="408" height="380" frameX="-4" frameY="0" frameWidth="416" frameHeight="380"/>
+	<SubTexture name="menudoormario_staticloop0000" x="0" y="380" width="408" height="397"/>
+	<SubTexture name="menudoormario_staticloop0001" x="0" y="380" width="408" height="397"/>
+	<SubTexture name="menudoormario_staticloop0002" x="408" y="380" width="407" height="397" frameX="0" frameY="0" frameWidth="408" frameHeight="397"/>
+	<SubTexture name="menudoormario_staticloop0003" x="408" y="380" width="407" height="397" frameX="0" frameY="0" frameWidth="408" frameHeight="397"/>
+</TextureAtlas>

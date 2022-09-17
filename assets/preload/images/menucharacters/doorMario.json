@@ -1,0 +1,11 @@
+{
+	"idle_anim": "menudoormario_staticloop",
+	"image": "Menu_doorMario",
+	"position": [
+		76,
+		10
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "menudoormario_confirm"
+}
