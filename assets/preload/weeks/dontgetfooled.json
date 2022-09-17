@@ -1,0 +1,32 @@
+{
+	"storyName": "...Mario i guess",
+	"difficulties": "Hard-locked",
+	"hideFreeplay": false,
+	"weekBackground": "doorMario",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Dont Get Fooled",
+			"icons-doormario",
+			[
+				20,
+				20,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"doorMario",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Door Mario"
+}
