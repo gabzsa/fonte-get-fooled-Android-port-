@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mario_idle"
+		},
+		{
+			"offsets": [
+				200,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mario_left"
+		},
+		{
+			"offsets": [
+				-52,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mario_down"
+		},
+		{
+			"offsets": [
+				65,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mario_up"
+		},
+		{
+			"offsets": [
+				19,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mario_right"
+		},
+		{
+			"offsets": [
+				19,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "speak",
+			"indices": [],
+			"name": "mario_speaking"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DOORMario_Assets",
+	"position": [
+		-50,
+		120
+	],
+	"healthicon": "icons-doormario",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		103,
+		103
+	],
+	"camera_position": [
+		30,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.91
+}

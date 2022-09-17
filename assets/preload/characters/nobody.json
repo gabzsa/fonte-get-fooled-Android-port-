@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				160
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "nobody_staticanimation"
+		},
+		{
+			"offsets": [
+				0,
+				159
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "HIM_idle"
+		},
+		{
+			"offsets": [
+				60,
+				150
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "HIM_left"
+		},
+		{
+			"offsets": [
+				30,
+				100
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "HIM_down"
+		},
+		{
+			"offsets": [
+				30,
+				210
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "HIM_up"
+		},
+		{
+			"offsets": [
+				-20,
+				159
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "HIM_right"
+		},
+		{
+			"offsets": [
+				0,
+				161
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "hey-alt",
+			"loop": false,
+			"name": "HIM_hey"
+		},
+		{
+			"offsets": [
+				0,
+				160
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "scared-alt",
+			"loop": true,
+			"name": "HIM_scared"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nobody_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "placeholder",
+	"flip_x": true,
+	"healthbar_colors": [
+		140,
+		140,
+		140
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}
