@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nobody_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HIM_down10000" x="0" y="0" width="602" height="600"/>
+	<SubTexture name="HIM_down20000" x="602" y="0" width="602" height="600"/>
+	<SubTexture name="HIM_hey10000" x="1204" y="0" width="602" height="600"/>
+	<SubTexture name="HIM_hey20000" x="1806" y="0" width="602" height="600"/>
+	<SubTexture name="HIM_hey30000" x="2408" y="0" width="602" height="600"/>
+	<SubTexture name="HIM_idle10000" x="3010" y="0" width="602" height="600"/>
+	<SubTexture name="HIM_idle100000" x="0" y="600" width="602" height="600"/>
+	<SubTexture name="HIM_idle20000" x="602" y="600" width="602" height="600"/>
+	<SubTexture name="HIM_idle30000" x="1204" y="600" width="602" height="600"/>
+	<SubTexture name="HIM_idle40000" x="1806" y="600" width="602" height="600"/>
+	<SubTexture name="HIM_idle50000" x="2408" y="600" width="602" height="600"/>
+	<SubTexture name="HIM_idle60000" x="3010" y="600" width="602" height="600"/>
+	<SubTexture name="HIM_idle70000" x="0" y="1200" width="602" height="600"/>
+	<SubTexture name="HIM_idle80000" x="602" y="1200" width="602" height="600"/>
+	<SubTexture name="HIM_idle90000" x="1204" y="1200" width="602" height="600"/>
+	<SubTexture name="HIM_left10000" x="1806" y="1200" width="602" height="600"/>
+	<SubTexture name="HIM_left20000" x="2408" y="1200" width="602" height="600"/>
+	<SubTexture name="HIM_right10000" x="3010" y="1200" width="602" height="600"/>
+	<SubTexture name="HIM_right20000" x="0" y="1800" width="602" height="600"/>
+	<SubTexture name="HIM_sacred40000" x="602" y="1800" width="602" height="600"/>
+	<SubTexture name="HIM_scared10000" x="1204" y="1800" width="602" height="600"/>
+	<SubTexture name="HIM_scared20000" x="1806" y="1800" width="602" height="600"/>
+	<SubTexture name="HIM_scared30000" x="2408" y="1800" width="602" height="600"/>
+	<SubTexture name="HIM_scared50000" x="3010" y="1800" width="602" height="600"/>
+	<SubTexture name="HIM_up10000" x="0" y="2400" width="602" height="600"/>
+	<SubTexture name="HIM_up20000" x="602" y="2400" width="602" height="600"/>
+	<SubTexture name="nobody_staticanimation0000" x="1204" y="2400" width="602" height="600"/>
+</TextureAtlas>
